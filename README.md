@@ -12,4 +12,4 @@ eg. python bir.py 5 40 7 1
 norm = 1 -> Normalization = True
 norm != 1 -> Normalization = False
 
-![alt tag]()
+![alt tag](https://github.com/jthois/-python-Clustering-of-Java-libraries-according-to-purpose/blob/master/low4high40keep10norma1.png)
